@@ -7,7 +7,7 @@ const projects = [
         Si bien el proceso pareció un poco mas tedioso, la construcción de la aplicación fue mucho mas fluida. La planificación
         fué una parte muy importante también. Bocetar la aplicación, y entender que componentes se necesitan, me ahorró muchos
         bloqueos a la hora de realizar el código. Sin duda este fué el proyecto que mejor pude llevar a cabo hasta ahora.`,
-        image: '/src/images/projects/flashcards.png',
+        image: 'images/projects/flashcards.png',
         url: 'https://tomasfunes.github.io/flashcards-web-app/',
         technologies: ['React', 'TypeScript', 'Tailwind', 'React Testing Library'],
     },
@@ -17,7 +17,7 @@ const projects = [
         con las que no estoy familiarizado como Docker, pude aprender a integrar React con Spring Boot, 
         una base de datos, y hostearlo como un contenedor. El host fue realizado en Render experimentalmente. Luego
         decidí restructurar el codigo y hacer el host en GitHub Pages, por cuestiones de conveniencia.`,
-        image: '/src/images/projects/todo.png',
+        image: 'images/projects/todo.png',
         url: 'https://tomasfunes.github.io/todo/',
         technologies: ['React', 'TypeScript', 'Spring Boot', 'Docker', 'PostgreSQL', 'React Testing Library'],
     },
@@ -27,7 +27,7 @@ const projects = [
         reglas del juego, y cómo se puede implementar. Buscar en otras paginas como es generalmente el layout. Este proyecto me
         ayudó a entender mucho mas el poder de planificar antes de construir. En este caso, decidí usar Vanilla JavaScript
         simplemente para trabajar directamente sobre el DOM y comprender mejor como funciona.`,
-        image: '/src/images/projects/wordle.png',
+        image: 'images/projects/wordle.png',
         url: 'https://tomasfunes.github.io/wordle/',
         technologies: ['JavaScript', 'HTML', 'CSS'],
     },
@@ -36,7 +36,7 @@ const projects = [
         description: `Aplicación de calendario. El mayor desafío que tuvo este proyecto es aprender a trabajar con los objetos
         de tipo Date. Hasta entonces no los había utilizado mucho y fué un poco engorroso llegar a entender como funcionan.
         Luego de ello el trabajo se hizo mas sencillo.`,
-        image: '/src/images/projects/calendar.png',
+        image: 'images/projects/calendar.png',
         url: 'https://tomasfunes.github.io/calendar/',
         technologies: ['JavaScript', 'HTML', 'CSS'],
     },
@@ -46,7 +46,7 @@ const projects = [
         Esta idea no surgió de ningún sitio, sino de los viejos RPG que jugaba en la web cuando era chico. La aplicación es
         simplemente un sistema de batalla para ese tipo de juegos. Aún tiene un bug con las barras de vida (sin duda hoy en dia
         lo implementaría de una forma totalmente distinta), pero generalmente funciona bien`,
-        image: '/src/images/projects/dice-battle.png',
+        image: 'images/projects/dice-battle.png',
         url: 'https://tomasfunes.github.io/dice-battle/',
         technologies: ['JavaScript', 'HTML', 'CSS'],
     },
@@ -55,7 +55,7 @@ const projects = [
         description: `Aplicación de pomodoro. El primer proyecto que realicé de forma autónoma. Es bastante sencillo tanto
         en lógica como en diseño, y es posible que contenga algun que otro bug (el proyecto quedó juntando polvo). Simplemente
         un temporizador de pomodoro, con un diseño bastante minimalista.`,
-        image: '/src/images/projects/pomodoro.png',
+        image: 'images/projects/pomodoro.png',
         url: 'https://tomasfunes.github.io/pomodoro/',
         technologies: ['JavaScript', 'HTML', 'CSS'],
     },
